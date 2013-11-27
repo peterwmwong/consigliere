@@ -1,0 +1,36 @@
+$color-black: #000;
+$color-white: #FFF;
+$color-blue: #0a91ff;
+$color-red: #e85c41;
+$color-gray-bg: #e5e5e5;
+$color-text: #555;
+
+$centro-alert-1        : rgb(251, 69,79);
+$centro-alert-2        : rgb(251, 134, 44);
+$centro-alert-3        : rgb(251, 231, 172);
+
+$centro-brand-1a       : hsl(195, 90%, 28%);
+$centro-brand-1b       : hsl(192, 100%, 28%);
+$centro-brand-1c       : hsl(191, 59%, 80%);
+
+$centro-brand-2a       : hsl(195, 100%, 29%);
+$centro-brand-2b       : hsl(195, 100%, 43%);
+$centro-brand-2c       : hsl(195, 75%, 70%);
+
+$centro-brand-3a       : hsl(323, 100%, 30%);
+$centro-brand-3b       : hsl(320, 84%, 42%);
+$centro-brand-3c       : hsl(329, 82%, 59%);
+
+$centro-confirm-1      : rgb(0, 183, 111);
+
+// Darker to lighter
+$grayscale-02          : hsl(195, 15%, 100%);
+$grayscale-01          : hsl(195, 15%, 95%);
+$grayscale-0           : hsl(195, 15%, 88%);
+$grayscale-1           : hsl(195, 15%, 78%);
+$grayscale-2           : hsl(195, 15%, 60%);
+$grayscale-3           : hsl(195, 15%, 50%);
+$grayscale-4           : hsl(195, 15%, 30%);
+$grayscale-5           : hsl(195, 90%, 10%);
+
+$row-highlight-color   : lighten($grayscale-01,2%);
